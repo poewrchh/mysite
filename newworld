@@ -1,0 +1,16 @@
+- name: 西雅图自建REALITY
+  type: vless
+  server: 192.227.231.75
+  port: 443
+  uuid: 33b05089-fdd9-4bda-9609-3c924d7577b5
+  flow: ""
+  encryption: none
+  network: tcp
+  tls: true
+  servername: www.cloudflare.com
+  reality-opts:
+    public-key: NQT_EXYYSVp2evpj7vJoWWfDnOW1HCgVglsYOWflfHQ
+    short-id: b2c4d6
+    client-fingerprint: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    client-fingerprint-id: "b1f8c13d-1a45-4b69-b568-d51bced5c3f6"
+  udp: true
